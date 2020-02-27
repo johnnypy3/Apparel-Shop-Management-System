@@ -1,0 +1,14 @@
+
+		**************Bill Info****************
+---------------------------------------------------------------------------------
+		Customer Name:		Rupak
+		Customer Contact:		9158985702
+		Customer Number:		2
+--------------------------------------------------------------------------------
+
+		Product Code		Product Price		Quantity of Products
+
+		2				899				1
+
+				Total Cost:		899
+				Grand Total(Total Cost+Tax):		802.358
